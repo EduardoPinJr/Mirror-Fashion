@@ -23,7 +23,7 @@
 
 
 .sacola {
-	background-image: url(file:///D:/Repositorio/Mirror%20fashion/mirrorfashion/img/sacola.png);
+	background-image: url(/img/sacola.png);
 	background-repeat: no-repeat;
 	background-position:top right;
 	font-size:14px;
@@ -96,7 +96,7 @@ header {
 	/*adicionando imagem ao botao de busca*/	
 	border:none;
 	background-repeat: no-repeat;
-	background-image: url(file:///D:/Repositorio/Mirror%20fashion/mirrorfashion/img/busca.png);
+	background-image: url(/img/busca.png);
 	
 	/*tamanho da imagem*/
 	width:20px;
@@ -261,13 +261,13 @@ footer .container{
 	text-indent:-9999px;
 }
 .social a[href*="facebook.com"]{
-		background-image:url(file:///D:/Repositorio/Mirror%20fashion/mirrorfashion/img/facebook.png);
+		background-image:url(/img/facebook.png);
 }
 .social a[href*="twitter.com"] {
-background-image: url(file:///D:/Repositorio/Mirror%20fashion/mirrorfashion/img/twitter.png);
+background-image: url(/img/twitter.png);
 }
 .social a[href*="plus.google.com"] {
-background-image: url(file:///D:/Repositorio/Mirror%20fashion/mirrorfashion/img/googleplus.png);
+background-image: url(/img/googleplus.png);
 margin-right: 25px;
 }
 footer img{
